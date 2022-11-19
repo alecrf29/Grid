@@ -1,6 +1,8 @@
 # Grid
-Exercitando o Grid
+
 Para Exercitar o GRID vamos recriar a seguinte imagem:
+
+
 ![image](https://user-images.githubusercontent.com/118202972/202836505-04d96a89-3cd7-4b87-a10d-5b518ad82e00.png)
 
 O layout acima é composto pelos seguintes componentes: cabeçalho, menu lateral, conteúdo do meio e dois elementos ocupando o restante do espaço lateral.
